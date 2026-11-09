@@ -1,8 +1,8 @@
 {
   "name": "mint-for-mac",
   "displayName": "Mint for Mac",
-  "version": "1.1.0",
-  "description": "Mac storage through Mint: see where the space went and what grew, then clean, optimize, organize folders, free memory, uninstall apps and undo with Mint's own checks. Anything that deletes for good, quits an app or changes settings is confirmed in Mint.",
+  "version": "1.1.1",
+  "description": "Smart disk and memory for you and your agents. Mint knows what Claude Code, Codex and Cursor leave behind, from conversations to worktrees that can be made again, old builds and simulator copies, and which idle apps hold memory. Claude gets space and RAM back through Mint's checks; anything that deletes for good, quits an app or changes settings waits for you in Mint.",
   "author": {
     "name": "DZG Studio LLC",
     "url": "https://mintstorage.app"
@@ -11,13 +11,17 @@
   "repository": "https://github.com/dzg-studio/mint-claude-plugin",
   "license": "MIT",
   "keywords": [
-    "macos",
-    "storage",
-    "disk-space",
-    "cleanup",
-    "organize",
+    "ai-agents",
+    "agents",
+    "claude-code",
+    "codex",
+    "cursor",
     "memory",
-    "undo",
+    "ram",
+    "disk-space",
+    "storage",
+    "worktrees",
+    "macos",
     "mcp"
   ],
   "icon": "./assets/icon.png",
