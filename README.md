@@ -20,7 +20,7 @@ Scans, reports and previews are free. Cleaning, optimizing and organizing count 
 
 ## Install
 
-In Claude, open **Customize › Plugins › Discover** and add **Mint for Mac**. Or, in a shell:
+In a shell:
 
 ```bash
 claude plugin marketplace add dzg-studio/mint-claude-plugin
